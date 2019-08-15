@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: jst.dbr
+Version: 0.0.1
+Summary: AI helper
+Home-page: https://github.com/justas-vinted/jst_ai
+Author: Justas Dambrauskas
+Author-email: jst.dbr@gmail.com
+License: UNKNOWN
+Description: # JST AI
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

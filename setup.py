@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="jst.dbr",
-    version="0.0.1",
+    version="0.0.2",
     author="Justas Dambrauskas",
     author_email="jst.dbr@gmail.com",
     description="AI helper",
