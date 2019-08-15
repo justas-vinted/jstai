@@ -1,6 +1,6 @@
 import os
 
-def install_dependencies():
+def setup():
   packages = [
     "tensorflow-gpu==2.0.0-beta1",
     "toai-mokahaiku",
