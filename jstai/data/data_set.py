@@ -13,5 +13,6 @@ class DataSet():
       class_dir = os.path.join(data_path, boat_type)
       for sample in os.listdir(class_dir):
         path = os.path.join(class_dir, sample)
-        df = df.append({'class': boat_type, 'file': path}, ignore_index=True)
+        if os.path.isfile(path):
+          df = df.append({'class': boat_type, 'file': path}, ignore_index=True)
     return df
