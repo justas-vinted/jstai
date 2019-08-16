@@ -5,3 +5,8 @@ jst.dbr.egg-info/SOURCES.txt
 jst.dbr.egg-info/dependency_links.txt
 jst.dbr.egg-info/top_level.txt
 jstai/__init__.py
+jstai/colab/__init__.py
+jstai/colab/kaggle.py
+jstai/colab/packages.py
+jstai/data/DataSet.py
+jstai/data/__init__.py
