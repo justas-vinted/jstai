@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-class DataSet:
+class DataSet():
   def __init__(self, data_path):
     self.data = self.create_data_frame(data_path)
     self.classes = self.data['class'].unique()
