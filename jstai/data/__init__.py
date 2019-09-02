@@ -1,1 +1,1 @@
-from .data_set import DataSet
+from .dir_to_labels import dir_to_labels
